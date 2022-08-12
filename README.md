@@ -39,7 +39,7 @@ Before running the application first install the following dependencies.
 
 ## Analysis
 
-![Bitstamp and Coinbase Overlay](./Resources/Bitstamp and Coinbase Overlay.png)
+[<img src="./Resources/Bitstamp_and_Coinbase_overlay.png" width="100"/>](./Resources/Bitstamp_and_Coinbase_overlay.png)
 
 Based on these visualizations, the degree of spread has not changed much over the course of the few months.  The overlay showing all the data only shows a small number of times where one market is deviates from the other.  
 

@@ -3,7 +3,7 @@
 This Jupyter notebook contains the code for my data collection, preparation, and analysis, including all visualizations.  As Bitcoin trades on markets across the globe, this code capitalizes on simultaneous price dislocations in those markets by using the powers of Pandas.  
 
 ## To accomplish this task, the following phases of financial analysis were followed:
->"
+>
     1.  Collect CSV data in a Jupyter notebook file.
     2.  Prepare the datasets for analysis by cleaning missing and erroneous data.
     3.  Analyze the data at a high level through summary statistics and visualizations, and use
@@ -39,7 +39,7 @@ Before running the application first install the following dependencies.
 
 ## Analysis
 
-[<img src="./Resources/Bitstamp_and_Coinbase_overlay.png" width="100"/>](./Resources/Bitstamp_and_Coinbase_overlay.png)
+![Bitstamp_and_Coinbase_overlay](./Resources/Bitstamp_and_Coinbase_overlay.png)
 
 Based on these visualizations, the degree of spread has not changed much over the course of the few months.  The overlay showing all the data only shows a small number of times where one market is deviates from the other.  
 
@@ -51,11 +51,11 @@ When zoomed in to specific time periods(months), the degree of spread is visible
 
 ### THREE RANDOM SAMPLES
 
-![Early_day_zoom](./Resources/Early_day_zoom.png) ![Early_day_stats](./Resources/Early_day_stats.png)
+[<img src="./Resources/Early_day_zoom.png" width="600"/>](./Resources/Early_day_zoom.png)[<img src="./Resources/Early_day_stats.png" width="150"/>](./Resources/Early_day_stats.png)
 
-![Middle_day_zoom](./Resources/Middle_day_zoom.png) ![Middle_day_stats](./Resources/Middle_day_stats.png)
+[<img src="./Resources/Middle_day_zoom.png" width="600"/>](./Resources/Middle_day_zoom.png)[<img src="./Resources/Middle_day_stats.png" width="150"/>](./Resources/Middle_day_stats.png)
 
-![Late_day_zoom](./Resources/Late_day_zoom.png) ![Late_day_stats](./Resources/Late_day_stats.png)
+[<img src="./Resources/Late_day_zoom.png" width="600"/>](./Resources/Late_day_zoom.png)[<img src="./Resources/Late_day_stats.png" width="150"/>](././Resources/Late_day_stats.png)
 
 Based on the three dates I chose, late in the day and overnight prices vary more than 
 during the business day so there is opportunity to make profit between 14:00 and 23:59.

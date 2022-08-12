@@ -51,7 +51,14 @@ When zoomed in to specific time periods(months), the degree of spread is visible
 
 ### THREE RANDOM SAMPLES
 
-[<img src="./Resources/Early_day_zoom.png" width="600"/>](./Resources/Early_day_zoom.png)[<img src="./Resources/Early_day_stats.png" width="150"/>](./Resources/Early_day_stats.png)
+[<img src="./Resources/Early_day_zoom.png" width="600"/>](./Resources/Early_day_zoom.png)
+<p align="center">
+[<img src="./Resources/Early_day_stats.png" width="150"/>](./Resources/Early_day_stats.png)
+[<img src="./Resources/profitable_trades_early.png" width="150"/>](./Resources/profitable_trades_early.png)
+[<img src="./Resources/cumsum_early.png" width="150"/>](./Resources/cumsum_early.png)
+</p>
+
+---
 
 [<img src="./Resources/Middle_day_zoom.png" width="600"/>](./Resources/Middle_day_zoom.png)[<img src="./Resources/Middle_day_stats.png" width="150"/>](./Resources/Middle_day_stats.png)
 

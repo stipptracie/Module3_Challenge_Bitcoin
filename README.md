@@ -49,19 +49,32 @@ Based on these visualizations, the degree of spread has not changed much over th
 
 When zoomed in to specific time periods(months), the degree of spread is visible.  However, one is not able to make calculations from those visualizations.
 
-### THREE RANDOM SAMPLES
+### THREE RANDOM DAY SAMPLES
 
-[<img src="./Resources/Early_day_zoom.png" width="600"/>](./Resources/Early_day_zoom.png)
+Early Day - January 1, 2018
+
+<img src="./Resources/Early_day_zoom.png" width="600"/>](./Resources/Early_day_zoom.png)
 
 | Overall Stats | Profitable trades > 1% | Cumulative Sum |
 |:--------:|:--------:|:--------:|
-| [<img src="./Resources/Early_day_stats.png" width="150"/>]        | [<img src="./Resources/profitable_trades_early.png" width="150"/>]        | [<img src="./Resources/cumsum_early.png" width="150"/>]        |
+| <img src="./Resources/Early_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_early.png" width="200"/>        | <img src="./Resources/cumsum_early.png" width="200"/>        |
     
----
+Middle Day - February 5, 2018
 
-[<img src="./Resources/Middle_day_zoom.png" width="600"/>](./Resources/Middle_day_zoom.png)[<img src="./Resources/Middle_day_stats.png" width="150"/>](./Resources/Middle_day_stats.png)
+[<img src="./Resources/Middle_day_zoom.png" width="600"/>](./Resources/Middle_day_zoom.png)
 
-[<img src="./Resources/Late_day_zoom.png" width="600"/>](./Resources/Late_day_zoom.png)[<img src="./Resources/Late_day_stats.png" width="150"/>](././Resources/Late_day_stats.png)
+| Overall Stats | Profitable trades > 1% | Cumulative Sum |
+|:--------:|:--------:|:--------:|
+| <img src="./Resources/Middle_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_middle.png" width="200"/>        | <img src="./Resources/cumsum_middle.png" width="200"/>        |
+
+Late Day - March 14, 2018
+
+[<img src="./Resources/Late_day_zoom.png" width="600"/>](./Resources/Late_day_zoom.png)
+
+| Overall Stats | Profitable trades > 1% | Cumulative Sum |
+|:--------:|:--------:|:--------:|
+| <img src="./Resources/Late_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_late.png" width="200"/>        | <img src="./Resources/cumsum_late.png" width="200"/>        |
+
 
 Based on the three dates I chose, late in the day and overnight prices vary more than 
 during the business day so there is opportunity to make profit between 14:00 and 23:59.

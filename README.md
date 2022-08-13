@@ -52,35 +52,35 @@ When zoomed in to specific time periods(months), the degree of spread is visible
 
 To better visualize and analyze opportunities for arbitrage, smaller slices of the data were sampled. Daily slices were taken from the beginning, middle and end of the time period given.
 
-Early Day - January 1, 2018
+**<u>Early Day - January 1, 2018</u>**
 
 <img src="./Resources/Early_day_zoom.png" width="600"/>]
 
 | Overall Stats | Profitable trades > 1% | Cumulative Sum |
 |:--------:|:--------:|:--------:|
 | <img src="./Resources/Early_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_early.png" width="200"/>        | <img src="./Resources/cumsum_early.png" width="200"/> 
-Total Profit = $1406.40       |
+**Total Profit = $1406.40**       |
     
-Middle Day - February 5, 2018
+**<u>Middle Day - February 5, 2018</u>**
 
 [<img src="./Resources/Middle_day_zoom.png" width="600"/>](./Resources/Middle_day_zoom.png)
 
 | Overall Stats | Profitable trades > 1% | Cumulative Sum |
 |:--------:|:--------:|:--------:|
 | <img src="./Resources/Middle_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_middle.png" width="200"/>        | <img src="./Resources/cumsum_middle.png" width="200"/> 
-Total Profit = $5915.35       |
+**Total Profit = $5915.35**       |
 
-Late Day - March 14, 2018
+**<u>Late Day - March 14, 2018</u>**
 
 [<img src="./Resources/Late_day_zoom.png" width="600"/>](./Resources/Late_day_zoom.png)
 
 | Overall Stats | Profitable trades > 1% | Cumulative Sum |
 |:--------:|:--------:|:--------:|
 | <img src="./Resources/Late_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_late.png" width="200"/>        | <img src="./Resources/cumsum_late.png" width="200"/> 
-Total Profit = $462.39       |
+**Total Profit = $462.39**       |
 
 
-While the first and last day chosen have a higher mean overall, they had a fewer number of profitable trades.  The first day had a mean profit per trade of $200.19 but only had 7 profitable trades for a total profit of $1406.40.  A good day!  The middle day had a mean profit of $115.98 per trade, with 51 profitable trades for a total profit of $5915.35. A VERY good day!  The last day had a mean profit per trade of $115.60 but only had 4 profitable trades, for a total profit of $462.39.  Profitable, but not the best.
+While the first and last day chosen have a higher mean overall, they had a fewer number of profitable trades.  The first day had a mean profit per trade of **$200.19** but only had 7 profitable trades for a total profit of $1406.40.  A good day!  The middle day had a mean profit of $115.98 per trade, with 51 profitable trades for a total profit of $5915.35. A VERY good day!  The last day had a mean profit per trade of $115.60 but only had 4 profitable trades, for a total profit of $462.39.  Profitable, but not the best.
 
 Based on the three dates I chose, it is noticeable that late in the day and overnight prices vary more than during the business day so there is opportunity to make profit between 14:00 and 23:59.
 

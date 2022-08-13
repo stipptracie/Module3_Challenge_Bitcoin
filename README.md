@@ -2,8 +2,8 @@
 
 This Jupyter notebook contains the code for my data collection, preparation, and analysis, including all visualizations.  As Bitcoin trades on markets across the globe, this code capitalizes on simultaneous price dislocations in those markets by using the powers of Pandas.  
 
-## To accomplish this task, the following phases of financial analysis were followed:
->
+To accomplish this task, the following phases of financial analysis were followed:
+
     1.  Collect CSV data in a Jupyter notebook file.
     2.  Prepare the datasets for analysis by cleaning missing and erroneous data.
     3.  Analyze the data at a high level through summary statistics and visualizations, and use
@@ -21,9 +21,9 @@ This Jupyter notebook contains the code for my data collection, preparation, and
 
 ## Technologies
 
-This project leverages python 3.7 with the following packages:
+This project leverages python 3.7 with the following:
 
-* [%matplotlib inline] 
+* [%matplotlib inline] - [A magic function in IPython](https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline)
 
 ---
 
@@ -58,7 +58,8 @@ Early Day - January 1, 2018
 
 | Overall Stats | Profitable trades > 1% | Cumulative Sum |
 |:--------:|:--------:|:--------:|
-| <img src="./Resources/Early_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_early.png" width="200"/>        | <img src="./Resources/cumsum_early.png" width="200"/> Total Profit = $1406.40       |
+| <img src="./Resources/Early_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_early.png" width="200"/>        | <img src="./Resources/cumsum_early.png" width="200"/> 
+Total Profit = $1406.40       |
     
 Middle Day - February 5, 2018
 
@@ -66,7 +67,8 @@ Middle Day - February 5, 2018
 
 | Overall Stats | Profitable trades > 1% | Cumulative Sum |
 |:--------:|:--------:|:--------:|
-| <img src="./Resources/Middle_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_middle.png" width="200"/>        | <img src="./Resources/cumsum_middle.png" width="200"/> Total Profit = $5915.35       |
+| <img src="./Resources/Middle_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_middle.png" width="200"/>        | <img src="./Resources/cumsum_middle.png" width="200"/> 
+Total Profit = $5915.35       |
 
 Late Day - March 14, 2018
 
@@ -74,7 +76,8 @@ Late Day - March 14, 2018
 
 | Overall Stats | Profitable trades > 1% | Cumulative Sum |
 |:--------:|:--------:|:--------:|
-| <img src="./Resources/Late_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_late.png" width="200"/>        | <img src="./Resources/cumsum_late.png" width="200"/> Total Profit = $462.39       |
+| <img src="./Resources/Late_day_stats.png" width="200"/>        | <img src="./Resources/profitable_trades_late.png" width="200"/>        | <img src="./Resources/cumsum_late.png" width="200"/> 
+Total Profit = $462.39       |
 
 
 While the first and last day chosen have a higher mean overall, they had a fewer number of profitable trades.  The first day had a mean profit per trade of $200.19 but only had 7 profitable trades for a total profit of $1406.40.  A good day!  The middle day had a mean profit of $115.98 per trade, with 51 profitable trades for a total profit of $5915.35. A VERY good day!  The last day had a mean profit per trade of $115.60 but only had 4 profitable trades, for a total profit of $462.39.  Profitable, but not the best.
